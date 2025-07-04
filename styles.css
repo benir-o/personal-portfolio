@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background: #f4f4f4;
+    background: #69bbcc;
     color: #333;
 }
 header {
@@ -17,7 +17,7 @@ header {
     max-width: 1000px;
     margin: auto;
     padding: 20px;
-    background: #fff;
+    background: #ffffff;
 }
 h1, h2 {
     color: #222;
